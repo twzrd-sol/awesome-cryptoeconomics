@@ -204,6 +204,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The Pillars of Tokenomics](https://captainbtc.substack.com/p/the-pillars-of-tokenomics-and-the) The ve Token Model
 1.  [All You Need to Know About Tokenomics](https://medium.com/coinmonks/all-you-need-to-know-about-tokenomics-39642fe11d02)
 1.  [Designing Token Economies](https://www.notboring.co/p/designing-token-economies)
+1.  [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring and identity verification for autonomous AI agents on Solana. Verify agent wallet reputation before token distribution, emissions, or autonomous economy interactions. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 1.  [Tokenomics 101](https://crypto.nateliason.com/p/tokenomics-101) The Basics of Evaluating Cryptocurrencies
 1.  [Tokenomics 102](https://crypto.nateliason.com/p/tokenomics-102-supply) Digging Deeper on Supply
 1.  [Tokenomics 103](https://crypto.nateliason.com/p/tokenomics-103-utility) Evaluating Token Utility
